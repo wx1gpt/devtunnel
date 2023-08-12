@@ -1,4 +1,4 @@
-module wxgpt.io/devtunnel
+module wxgpt.io/pkg/devtunnel
 
 go 1.20
 
